@@ -199,4 +199,5 @@ y ejecútalo con:
 🎓 Créditos
 
 Proyecto desarrollado para el curso Programación III
+
 Modelado CSP + Solución de Sudokus 9x9 usando técnicas de IA clásica.
